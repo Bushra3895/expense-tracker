@@ -4,11 +4,12 @@ A responsive **Expense Tracker** web application built with **React.js** — tra
 
 ---
 
-## 🖥️ Live Preview
+## 🔗 Live Demo
 
 ![Expense Tracker](https://img.shields.io/badge/Status-Complete-brightgreen)
 ![React](https://img.shields.io/badge/React-18.x-blue)
 ![Vite](https://img.shields.io/badge/Vite-Latest-purple)
+[👉 Click here to view live]((https://expense-tracker-seven-amber-31.vercel.app/))
 
 ---
 
