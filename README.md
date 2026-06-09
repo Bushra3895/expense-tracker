@@ -1,16 +1,103 @@
-# React + Vite
+# 💰 Expense Tracker
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive **Expense Tracker** web application built with **React.js** — track your income and expenses with real-time balance updates.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🖥️ Live Preview
 
-## React Compiler
+![Expense Tracker](https://img.shields.io/badge/Status-Complete-brightgreen)
+![React](https://img.shields.io/badge/React-18.x-blue)
+![Vite](https://img.shields.io/badge/Vite-Latest-purple)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## ✨ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- ✅ Add income and expense transactions
+- ✅ Real-time balance calculation
+- ✅ View transaction history
+- ✅ Income vs Expense summary
+- ✅ Delete transactions
+- ✅ Clean and responsive UI
+
+---
+
+## 🛠️ Technologies Used
+
+| Technology | Purpose |
+|------------|---------|
+| React.js | Frontend UI |
+| Vite | Build Tool |
+| CSS3 | Styling |
+| React Hooks | State Management |
+
+---
+
+## 📁 Project Structure
+
+```
+expense-tracker/
+│
+├── public/
+│   └── vite.svg
+│
+├── src/
+│   ├── assets/
+│   ├── components/
+│   │   ├── Header.jsx
+│   │   ├── Balance.jsx
+│   │   ├── IncomeExpense.jsx
+│   │   ├── TransactionList.jsx
+│   │   ├── TransactionItem.jsx
+│   │   └── AddTransaction.jsx
+│   ├── App.jsx
+│   ├── App.css
+│   ├── main.jsx
+│   └── index.css
+│
+├── index.html
+├── package.json
+├── vite.config.js
+└── README.md
+```
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+- Node.js installed
+- npm or yarn
+
+### Installation
+
+**1. Clone the repository:**
+```bash
+git clone https://github.com/Bushra3895/expense-tracker.git
+cd expense-tracker
+```
+
+**2. Install dependencies:**
+```bash
+npm install
+```
+
+**3. Run the development server:**
+```bash
+npm run dev
+```
+
+**4. Open in browser:**
+```
+http://localhost:5173
+```
+
+---
+
+## 👩‍💻 Author
+
+**Bushra** — [@Bushra3895](https://github.com/Bushra3895)
+
+
+This project is open source and available under the [MIT License](LICENSE).
