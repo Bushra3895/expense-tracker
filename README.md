@@ -67,6 +67,9 @@ expense-tracker/
 ```
 
 ---
+## Screenshot
+![Expense Tracker Screenshot](expense-tracker-screenshot.png)
+---
 
 ## 🚀 Getting Started
 
