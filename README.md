@@ -68,7 +68,7 @@ expense-tracker/
 
 ---
 ## Screenshot
-![Expense Tracker Screenshot](expense-tracker app.PNG)
+![Expense Tracker Screenshot](expense-tracker%20app.PNG)
 ---
 
 ## 🚀 Getting Started
